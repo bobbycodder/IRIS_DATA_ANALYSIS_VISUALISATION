@@ -25,7 +25,7 @@ See here for more information on this dataset : https://en.wikipedia.org/wiki/Ir
 * **Choosing Plot(Classification feature as Petal Length)to distinguish among the species**
 
 * ***Image***
-
+<img src="https://covartech.github.io/prtdoc/prtDocGettingStartedExamples_01.png" width="400">
 
 * **The pdf curve of Iris Setosa ends roughly at 2.1,**
 * **If petal length < 2.1, then species is Iris Setosa,**
